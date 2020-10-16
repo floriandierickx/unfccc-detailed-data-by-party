@@ -21,6 +21,8 @@ wget http://di.unfccc.int/api/dimension-instances/category -q -O- | \
   python3 -m json.tool > categories.json
 wget http://di.unfccc.int/api/dimension-instances/gas -q -O- | \
   python3 -m json.tool >  gases.json
+wget http://di.unfccc.int/api/dimension-instances/classification -q -O- | \
+  python3 -m json.tool >  classifications.json
 wget http://di.unfccc.int/api/conversion -q -O- | \
   python3 -m json.tool > conversion.json
 pwd
