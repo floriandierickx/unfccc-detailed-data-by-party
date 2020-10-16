@@ -2,7 +2,7 @@ import os
 
 import requests
 
-from mappings import categories, gases, parties, years
+from mappings import categories, gases, parties, years, classifications
 
 path = os.path.dirname(os.path.realpath(__file__))
 outpath = {
@@ -31,27 +31,29 @@ def get_children(items, parent=None):
 for group in ["annexOne", "nonAnnexOne"]:
     all_categories = get_children(categories[group])
     for category in all_categories:
-        parent_category = category["parent"].replace("  ", " ").replace(
-            "/", "_-_")
-        name_category = category["name"].replace("  ", " ").replace(
-            "/", "_-_")
-        for gas in gases[group]:
-            name_gas = gas["name"]
-            params = {
-                "partyIds": parties[group].values(),
-                "yearIds": years[group],
-                "categoryId": category["id"],
-                "gasId": gas["id"]
-            }
-            filename = (parent_category + "___" + name_category +
-                        "___" + name_gas + ".json")
-            fullpath = os.path.join(outpath[group], filename)
-            if os.path.exists(fullpath):
-                print("Skipping (already exists): archive/{}: {}".format(
-                    group, filename))
-                continue
-            print("archive :: {} :: {}".format(group, filename))
-            r = requests.get(url, params=params)
-            if r.ok:
-                with open(fullpath, "w") as f:
-                    f.write(r.text)
+        parent_category = category["parent"].replace("  ", " ").replace("/", "_-_")
+        name_category = category["name"].replace("  ", " ").replace("/", "_-_")
+        for classification in classifications[group]:
+            name_classification = classification["name"].replace("  ", " ").replace("/", "_-_")
+            for gas in gases[group]:
+                name_gas = gas["name"]
+                params = {
+                    "partyIds": parties[group].values(),
+                    "yearIds": years[group],
+                    "categoryId": category["id"],
+                    "classificationId": classification["id"],
+                    "gasId": gas["id"]
+                }
+                
+                filename = (parent_category + "___" + name_category +
+                            "___" + name_classification + "___" + name_gas + ".json")
+                fullpath = os.path.join(outpath[group], filename)
+                if os.path.exists(fullpath):
+                    print("Skipping (already exists): archive/{}: {}".format(
+                        group, filename))
+                    continue
+                print("archive :: {} :: {}".format(group, filename))
+                r = requests.get(url, params=params)
+                if r.ok:
+                    with open(fullpath, "w") as f:
+                        f.write(r.text)
