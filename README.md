@@ -1,5 +1,7 @@
 ## Purpose of this fork = add classifications subdivision for emission inventories
 
+Background/intro: https://twitter.com/FlorianDRX/status/1317098006123040768?s=20
+
 Final goal: csv file with subdivision Party -> Parent Category -> Category -> **Classification** -> Gas
 
 Steps:
