@@ -1,0 +1,808 @@
+{
+    "annexOne": [
+        {
+            "id": 10510,
+            "name": "Total for category"
+        },
+        {
+            "id": 10511,
+            "name": "Anthracite"
+        },
+        {
+            "id": 10512,
+            "name": "Aviation Gasoline"
+        },
+        {
+            "id": 10513,
+            "name": "Biomass"
+        },
+        {
+            "id": 10514,
+            "name": "Bitumen"
+        },
+        {
+            "id": 10515,
+            "name": "BKB and Patent Fuel"
+        },
+        {
+            "id": 10516,
+            "name": "Coal Tar"
+        },
+        {
+            "id": 10517,
+            "name": "Coke Oven/Gas Coke"
+        },
+        {
+            "id": 10518,
+            "name": "Coking Coal"
+        },
+        {
+            "id": 10519,
+            "name": "Crude Oil"
+        },
+        {
+            "id": 10520,
+            "name": "Diesel Oil"
+        },
+        {
+            "id": 10521,
+            "name": "Ethane"
+        },
+        {
+            "id": 10522,
+            "name": "Gas Biomass"
+        },
+        {
+            "id": 10523,
+            "name": "Gas/Diesel Oil"
+        },
+        {
+            "id": 10524,
+            "name": "Gaseous Fuels"
+        },
+        {
+            "id": 10525,
+            "name": "Gasoline"
+        },
+        {
+            "id": 10526,
+            "name": "Jet Kerosene"
+        },
+        {
+            "id": 10527,
+            "name": "Lignite"
+        },
+        {
+            "id": 10528,
+            "name": "Liquefied Petroleum Gases (LPG)"
+        },
+        {
+            "id": 10529,
+            "name": "Liquid Biomass"
+        },
+        {
+            "id": 10530,
+            "name": "Liquid Fuels"
+        },
+        {
+            "id": 10531,
+            "name": "Lubricants"
+        },
+        {
+            "id": 10532,
+            "name": "Naphtha"
+        },
+        {
+            "id": 10533,
+            "name": "Natural Gas (Dry)"
+        },
+        {
+            "id": 10534,
+            "name": "Natural Gas Liquids"
+        },
+        {
+            "id": 10535,
+            "name": "Oil Shale and Tar Sand"
+        },
+        {
+            "id": 10536,
+            "name": "Orimulsion"
+        },
+        {
+            "id": 10537,
+            "name": "Other Bituminous Coal"
+        },
+        {
+            "id": 10538,
+            "name": "Other Fossil Fuels"
+        },
+        {
+            "id": 10539,
+            "name": "Other Gaseous Fossil"
+        },
+        {
+            "id": 10540,
+            "name": "Other Kerosene"
+        },
+        {
+            "id": 10541,
+            "name": "Other Liquid Fossil"
+        },
+        {
+            "id": 10542,
+            "name": "Other Liquid Fuels"
+        },
+        {
+            "id": 10543,
+            "name": "Other non-fossil fuels (biogenic waste)"
+        },
+        {
+            "id": 10544,
+            "name": "Other Oil"
+        },
+        {
+            "id": 10545,
+            "name": "Other Solid Fossil"
+        },
+        {
+            "id": 10546,
+            "name": "Peat"
+        },
+        {
+            "id": 10547,
+            "name": "Petroleum Coke"
+        },
+        {
+            "id": 10548,
+            "name": "Refinery Feedstocks"
+        },
+        {
+            "id": 10549,
+            "name": "Residual Fuel Oil"
+        },
+        {
+            "id": 10550,
+            "name": "Shale Oil"
+        },
+        {
+            "id": 10551,
+            "name": "Solid Biomass"
+        },
+        {
+            "id": 10552,
+            "name": "Solid Fuels"
+        },
+        {
+            "id": 10553,
+            "name": "Sub-bituminous Coal"
+        },
+        {
+            "id": 10554,
+            "name": "Waste (non-biomass fraction)"
+        },
+        {
+            "id": 10638,
+            "name": "Buffalo"
+        },
+        {
+            "id": 10639,
+            "name": "Camels"
+        },
+        {
+            "id": 10640,
+            "name": "Cattle"
+        },
+        {
+            "id": 10641,
+            "name": "Dairy Cattle"
+        },
+        {
+            "id": 10642,
+            "name": "Deer"
+        },
+        {
+            "id": 10643,
+            "name": "Fur-bearing Animals"
+        },
+        {
+            "id": 10644,
+            "name": "Goats"
+        },
+        {
+            "id": 10645,
+            "name": "Growing Cattle"
+        },
+        {
+            "id": 10646,
+            "name": "Horses"
+        },
+        {
+            "id": 10647,
+            "name": "Mature Dairy Cattle"
+        },
+        {
+            "id": 10648,
+            "name": "Mules and Asses"
+        },
+        {
+            "id": 10649,
+            "name": "Non-Dairy Cattle"
+        },
+        {
+            "id": 10650,
+            "name": "Ostrich"
+        },
+        {
+            "id": 10651,
+            "name": "Other"
+        },
+        {
+            "id": 10652,
+            "name": "Other Cattle"
+        },
+        {
+            "id": 10653,
+            "name": "Other Mature Cattle"
+        },
+        {
+            "id": 10654,
+            "name": "Poultry"
+        },
+        {
+            "id": 10655,
+            "name": "Rabbit"
+        },
+        {
+            "id": 10656,
+            "name": "Reindeer"
+        },
+        {
+            "id": 10657,
+            "name": "Sheep"
+        },
+        {
+            "id": 10658,
+            "name": "Swine"
+        },
+        {
+            "id": 10825,
+            "name": "4 (I) Direct N2O Emissions from N inputs to managed soils"
+        },
+        {
+            "id": 10826,
+            "name": "4 (II) Emissions and removals from drainage and rewetting and other management of organic and mineral soils"
+        },
+        {
+            "id": 10820,
+            "name": "4 (III) Direct N2O Emissions from N Mineralization/ Immobilization"
+        },
+        {
+            "id": 10821,
+            "name": "4 (IV) Indirect N2O emissions from managed soils - Atmospheric Deposition"
+        },
+        {
+            "id": 10822,
+            "name": "4 (IV) Indirect N2O emissions from managed soils - Nitrogen Leaching and Run-off"
+        },
+        {
+            "id": 10823,
+            "name": "4 (IV) Indirect N2O emissions from managed soils"
+        },
+        {
+            "id": 10824,
+            "name": "4 (V) Biomass Burning"
+        },
+        {
+            "id": 10827,
+            "name": "Carbon stock change"
+        },
+        {
+            "id": 10828,
+            "name": "Controlled Burning"
+        },
+        {
+            "id": 10829,
+            "name": "Drained Organic Soils"
+        },
+        {
+            "id": 10830,
+            "name": "Inorganic N Fertilizers"
+        },
+        {
+            "id": 10831,
+            "name": "Organic N Fertilizers"
+        },
+        {
+            "id": 10832,
+            "name": "Other Mineral Soils"
+        },
+        {
+            "id": 10833,
+            "name": "Other Organic Soils"
+        },
+        {
+            "id": 10834,
+            "name": "Rewetted Mineral Soils"
+        },
+        {
+            "id": 10835,
+            "name": "Rewetted Organic Soils"
+        },
+        {
+            "id": 10836,
+            "name": "Total mineral soils"
+        },
+        {
+            "id": 10837,
+            "name": "Total organic soils"
+        },
+        {
+            "id": 10838,
+            "name": "Wildfires"
+        },
+        {
+            "id": 10915,
+            "name": "> 20 years"
+        },
+        {
+            "id": 10916,
+            "name": "Anaerobic lagoon"
+        },
+        {
+            "id": 10917,
+            "name": "Camels and Llamas"
+        },
+        {
+            "id": 10918,
+            "name": "Coal"
+        },
+        {
+            "id": 10919,
+            "name": "Daily spread"
+        },
+        {
+            "id": 10920,
+            "name": "Decay of aboveground biomass"
+        },
+        {
+            "id": 10921,
+            "name": "first 20 years"
+        },
+        {
+            "id": 10922,
+            "name": "Liquid system"
+        },
+        {
+            "id": 10923,
+            "name": "Off-site burning"
+        },
+        {
+            "id": 10924,
+            "name": "On- and off-site burning"
+        },
+        {
+            "id": 10925,
+            "name": "On-site burning"
+        },
+        {
+            "id": 10926,
+            "name": "Other AWMS"
+        },
+        {
+            "id": 10927,
+            "name": "Other Fuels"
+        },
+        {
+            "id": 10928,
+            "name": "Pasture range and paddock"
+        },
+        {
+            "id": 10929,
+            "name": "Solid storage and dry lot"
+        }
+    ],
+    "nonAnnexOne": [
+        {
+            "id": 10510,
+            "name": "Total for category"
+        },
+        {
+            "id": 10511,
+            "name": "Anthracite"
+        },
+        {
+            "id": 10512,
+            "name": "Aviation Gasoline"
+        },
+        {
+            "id": 10513,
+            "name": "Biomass"
+        },
+        {
+            "id": 10514,
+            "name": "Bitumen"
+        },
+        {
+            "id": 10515,
+            "name": "BKB and Patent Fuel"
+        },
+        {
+            "id": 10516,
+            "name": "Coal Tar"
+        },
+        {
+            "id": 10517,
+            "name": "Coke Oven/Gas Coke"
+        },
+        {
+            "id": 10518,
+            "name": "Coking Coal"
+        },
+        {
+            "id": 10519,
+            "name": "Crude Oil"
+        },
+        {
+            "id": 10520,
+            "name": "Diesel Oil"
+        },
+        {
+            "id": 10521,
+            "name": "Ethane"
+        },
+        {
+            "id": 10522,
+            "name": "Gas Biomass"
+        },
+        {
+            "id": 10523,
+            "name": "Gas/Diesel Oil"
+        },
+        {
+            "id": 10524,
+            "name": "Gaseous Fuels"
+        },
+        {
+            "id": 10525,
+            "name": "Gasoline"
+        },
+        {
+            "id": 10526,
+            "name": "Jet Kerosene"
+        },
+        {
+            "id": 10527,
+            "name": "Lignite"
+        },
+        {
+            "id": 10528,
+            "name": "Liquefied Petroleum Gases (LPG)"
+        },
+        {
+            "id": 10529,
+            "name": "Liquid Biomass"
+        },
+        {
+            "id": 10530,
+            "name": "Liquid Fuels"
+        },
+        {
+            "id": 10531,
+            "name": "Lubricants"
+        },
+        {
+            "id": 10532,
+            "name": "Naphtha"
+        },
+        {
+            "id": 10533,
+            "name": "Natural Gas (Dry)"
+        },
+        {
+            "id": 10534,
+            "name": "Natural Gas Liquids"
+        },
+        {
+            "id": 10535,
+            "name": "Oil Shale and Tar Sand"
+        },
+        {
+            "id": 10536,
+            "name": "Orimulsion"
+        },
+        {
+            "id": 10537,
+            "name": "Other Bituminous Coal"
+        },
+        {
+            "id": 10538,
+            "name": "Other Fossil Fuels"
+        },
+        {
+            "id": 10539,
+            "name": "Other Gaseous Fossil"
+        },
+        {
+            "id": 10540,
+            "name": "Other Kerosene"
+        },
+        {
+            "id": 10541,
+            "name": "Other Liquid Fossil"
+        },
+        {
+            "id": 10542,
+            "name": "Other Liquid Fuels"
+        },
+        {
+            "id": 10543,
+            "name": "Other non-fossil fuels (biogenic waste)"
+        },
+        {
+            "id": 10544,
+            "name": "Other Oil"
+        },
+        {
+            "id": 10545,
+            "name": "Other Solid Fossil"
+        },
+        {
+            "id": 10546,
+            "name": "Peat"
+        },
+        {
+            "id": 10547,
+            "name": "Petroleum Coke"
+        },
+        {
+            "id": 10548,
+            "name": "Refinery Feedstocks"
+        },
+        {
+            "id": 10549,
+            "name": "Residual Fuel Oil"
+        },
+        {
+            "id": 10550,
+            "name": "Shale Oil"
+        },
+        {
+            "id": 10551,
+            "name": "Solid Biomass"
+        },
+        {
+            "id": 10552,
+            "name": "Solid Fuels"
+        },
+        {
+            "id": 10553,
+            "name": "Sub-bituminous Coal"
+        },
+        {
+            "id": 10554,
+            "name": "Waste (non-biomass fraction)"
+        },
+        {
+            "id": 10638,
+            "name": "Buffalo"
+        },
+        {
+            "id": 10639,
+            "name": "Camels"
+        },
+        {
+            "id": 10640,
+            "name": "Cattle"
+        },
+        {
+            "id": 10641,
+            "name": "Dairy Cattle"
+        },
+        {
+            "id": 10642,
+            "name": "Deer"
+        },
+        {
+            "id": 10643,
+            "name": "Fur-bearing Animals"
+        },
+        {
+            "id": 10644,
+            "name": "Goats"
+        },
+        {
+            "id": 10645,
+            "name": "Growing Cattle"
+        },
+        {
+            "id": 10646,
+            "name": "Horses"
+        },
+        {
+            "id": 10647,
+            "name": "Mature Dairy Cattle"
+        },
+        {
+            "id": 10648,
+            "name": "Mules and Asses"
+        },
+        {
+            "id": 10649,
+            "name": "Non-Dairy Cattle"
+        },
+        {
+            "id": 10650,
+            "name": "Ostrich"
+        },
+        {
+            "id": 10651,
+            "name": "Other"
+        },
+        {
+            "id": 10652,
+            "name": "Other Cattle"
+        },
+        {
+            "id": 10653,
+            "name": "Other Mature Cattle"
+        },
+        {
+            "id": 10654,
+            "name": "Poultry"
+        },
+        {
+            "id": 10655,
+            "name": "Rabbit"
+        },
+        {
+            "id": 10656,
+            "name": "Reindeer"
+        },
+        {
+            "id": 10657,
+            "name": "Sheep"
+        },
+        {
+            "id": 10658,
+            "name": "Swine"
+        },
+        {
+            "id": 10825,
+            "name": "4 (I) Direct N2O Emissions from N inputs to managed soils"
+        },
+        {
+            "id": 10826,
+            "name": "4 (II) Emissions and removals from drainage and rewetting and other management of organic and mineral soils"
+        },
+        {
+            "id": 10820,
+            "name": "4 (III) Direct N2O Emissions from N Mineralization/ Immobilization"
+        },
+        {
+            "id": 10821,
+            "name": "4 (IV) Indirect N2O emissions from managed soils - Atmospheric Deposition"
+        },
+        {
+            "id": 10822,
+            "name": "4 (IV) Indirect N2O emissions from managed soils - Nitrogen Leaching and Run-off"
+        },
+        {
+            "id": 10823,
+            "name": "4 (IV) Indirect N2O emissions from managed soils"
+        },
+        {
+            "id": 10824,
+            "name": "4 (V) Biomass Burning"
+        },
+        {
+            "id": 10827,
+            "name": "Carbon stock change"
+        },
+        {
+            "id": 10828,
+            "name": "Controlled Burning"
+        },
+        {
+            "id": 10829,
+            "name": "Drained Organic Soils"
+        },
+        {
+            "id": 10830,
+            "name": "Inorganic N Fertilizers"
+        },
+        {
+            "id": 10831,
+            "name": "Organic N Fertilizers"
+        },
+        {
+            "id": 10832,
+            "name": "Other Mineral Soils"
+        },
+        {
+            "id": 10833,
+            "name": "Other Organic Soils"
+        },
+        {
+            "id": 10834,
+            "name": "Rewetted Mineral Soils"
+        },
+        {
+            "id": 10835,
+            "name": "Rewetted Organic Soils"
+        },
+        {
+            "id": 10836,
+            "name": "Total mineral soils"
+        },
+        {
+            "id": 10837,
+            "name": "Total organic soils"
+        },
+        {
+            "id": 10838,
+            "name": "Wildfires"
+        },
+        {
+            "id": 10915,
+            "name": "> 20 years"
+        },
+        {
+            "id": 10916,
+            "name": "Anaerobic lagoon"
+        },
+        {
+            "id": 10917,
+            "name": "Camels and Llamas"
+        },
+        {
+            "id": 10918,
+            "name": "Coal"
+        },
+        {
+            "id": 10919,
+            "name": "Daily spread"
+        },
+        {
+            "id": 10920,
+            "name": "Decay of aboveground biomass"
+        },
+        {
+            "id": 10921,
+            "name": "first 20 years"
+        },
+        {
+            "id": 10922,
+            "name": "Liquid system"
+        },
+        {
+            "id": 10923,
+            "name": "Off-site burning"
+        },
+        {
+            "id": 10924,
+            "name": "On- and off-site burning"
+        },
+        {
+            "id": 10925,
+            "name": "On-site burning"
+        },
+        {
+            "id": 10926,
+            "name": "Other AWMS"
+        },
+        {
+            "id": 10927,
+            "name": "Other Fuels"
+        },
+        {
+            "id": 10928,
+            "name": "Pasture range and paddock"
+        },
+        {
+            "id": 10929,
+            "name": "Solid storage and dry lot"
+        }
+    ],
+    "extData": null,
+    "cad": null
+}
