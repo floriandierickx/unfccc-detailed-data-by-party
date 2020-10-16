@@ -42,6 +42,9 @@ categories = json.load(open(os.path.join(_path, "categories.json")))
 # Gas Ids
 gases = json.load(open(os.path.join(_path, "gases.json")))
 
+# Classification Ids
+classifications = json.load(open(os.path.join(_path, "classifications.json")))
+
 # Conversion
 _units = json.load(open(os.path.join(_path, "conversion.json")))["units"]
 units = {item["id"]: item["name"] for item in _units}
