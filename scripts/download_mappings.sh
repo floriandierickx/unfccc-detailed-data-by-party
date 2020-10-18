@@ -23,7 +23,7 @@ wget http://di.unfccc.int/api/dimension-instances/category -q -O- | \
   python3 -m json.tool > categories.json
 wget http://di.unfccc.int/api/dimension-instances/classification -q -O- | \
   python3 -m json.tool > classifications.json  # @FlorianDRX - 2nd GET sequence
-wget https://di.unfccc.int/api/dimension-instances/measure -q -0- | \ 
+wget https://di.unfccc.int/api/dimension-instances/measure -q -O- | \
   python3 -m json.tool > measures.json # @FlorianDRX - 3rd GET sequence
 wget http://di.unfccc.int/api/dimension-instances/gas -q -O- | \
   python3 -m json.tool > gases.json
