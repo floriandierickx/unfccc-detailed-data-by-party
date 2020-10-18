@@ -1,0 +1,2289 @@
+{
+    "annexOne": [
+        {
+            "id": 10555,
+            "name": "Emissions",
+            "children": [
+                {
+                    "id": 10460,
+                    "name": "Net emissions/removals"
+                },
+                {
+                    "id": 10563,
+                    "name": "Indirect emissions"
+                },
+                {
+                    "id": 10560,
+                    "name": "Amount captured"
+                },
+                {
+                    "id": 10564,
+                    "name": "Recovery/Flaring"
+                },
+                {
+                    "id": 10810,
+                    "name": "Emissions from manufacturing"
+                },
+                {
+                    "id": 10811,
+                    "name": "Emissions from stocks"
+                },
+                {
+                    "id": 10809,
+                    "name": "Emissions from disposal"
+                },
+                {
+                    "id": 10815,
+                    "name": "Recovery"
+                },
+                {
+                    "id": 10700,
+                    "name": "Direct emissions per MMS"
+                },
+                {
+                    "id": 10701,
+                    "name": "Direct emissions per MMS - Anaerobic lagoon"
+                },
+                {
+                    "id": 10705,
+                    "name": "Direct emissions per MMS - Liquid system"
+                },
+                {
+                    "id": 10703,
+                    "name": "Direct emissions per MMS - Daily spread"
+                },
+                {
+                    "id": 10707,
+                    "name": "Direct emissions per MMS - Solid storage and dry lot"
+                },
+                {
+                    "id": 10702,
+                    "name": "Direct emissions per MMS - Composting"
+                },
+                {
+                    "id": 10704,
+                    "name": "Direct emissions per MMS - Digesters"
+                },
+                {
+                    "id": 10706,
+                    "name": "Direct emissions per MMS - Other"
+                },
+                {
+                    "id": 10731,
+                    "name": "Indirect N2O emissions from atmospheric deposition"
+                },
+                {
+                    "id": 10732,
+                    "name": "Indirect N2O emissions from nitrogen leaching and run-off"
+                },
+                {
+                    "id": 10561,
+                    "name": "Amount of CH\u2084 flared"
+                },
+                {
+                    "id": 10562,
+                    "name": "Amount of CH\u2084 for energy recovery"
+                },
+                {
+                    "id": 10862,
+                    "name": "Net emissions/removals from HWP"
+                },
+                {
+                    "id": 10860,
+                    "name": "Net emissions/removals from HWP from domestic consumption"
+                },
+                {
+                    "id": 10861,
+                    "name": "Net emissions/removals from HWP from domestic harvest"
+                },
+                {
+                    "id": 10580,
+                    "name": "Imports"
+                },
+                {
+                    "id": 10847,
+                    "name": "Gains in living biomass"
+                },
+                {
+                    "id": 10850,
+                    "name": "Losses in living biomass"
+                },
+                {
+                    "id": 10859,
+                    "name": "Net change in living biomass"
+                },
+                {
+                    "id": 10855,
+                    "name": "Net carbon stock change in dead wood"
+                },
+                {
+                    "id": 10856,
+                    "name": "Net carbon stock change in litter"
+                },
+                {
+                    "id": 10854,
+                    "name": "Net carbon stock change in dead organic matter"
+                },
+                {
+                    "id": 10857,
+                    "name": "Net carbon stock change in mineral soils"
+                },
+                {
+                    "id": 10858,
+                    "name": "Net carbon stock change in organic soils"
+                },
+                {
+                    "id": 10853,
+                    "name": "N volatized from managed soils from inputs of N"
+                },
+                {
+                    "id": 10852,
+                    "name": "N from fertlizers and other that is lost through leaching and run-off from managed soils"
+                },
+                {
+                    "id": 10848,
+                    "name": "Gains"
+                },
+                {
+                    "id": 10851,
+                    "name": "Losses"
+                },
+                {
+                    "id": 10849,
+                    "name": "Half-life"
+                },
+                {
+                    "id": 10878,
+                    "name": "Actual emissions"
+                },
+                {
+                    "id": 10909,
+                    "name": "Potential emissions"
+                }
+            ]
+        },
+        {
+            "id": 10556,
+            "name": "Activity Data",
+            "children": [
+                {
+                    "id": 10817,
+                    "name": "Total area"
+                },
+                {
+                    "id": 10819,
+                    "name": "Market prices (constant 2010 USD)"
+                },
+                {
+                    "id": 10818,
+                    "name": "Total population"
+                },
+                {
+                    "id": 10578,
+                    "name": "Fuel Consumption"
+                },
+                {
+                    "id": 10585,
+                    "name": "Production"
+                },
+                {
+                    "id": 10576,
+                    "name": "Exports"
+                },
+                {
+                    "id": 10581,
+                    "name": "International bunkers"
+                },
+                {
+                    "id": 10588,
+                    "name": "Stock change"
+                },
+                {
+                    "id": 10587,
+                    "name": "Source apparent consumption"
+                },
+                {
+                    "id": 10569,
+                    "name": "Apparent consumption"
+                },
+                {
+                    "id": 10570,
+                    "name": "Carbon content"
+                },
+                {
+                    "id": 10573,
+                    "name": "Carbon stored"
+                },
+                {
+                    "id": 10584,
+                    "name": "Net carbon emissions"
+                },
+                {
+                    "id": 10577,
+                    "name": "Fraction of carbon oxidized"
+                },
+                {
+                    "id": 10579,
+                    "name": "Fuel quantity"
+                },
+                {
+                    "id": 10571,
+                    "name": "Carbon excluded"
+                },
+                {
+                    "id": 10572,
+                    "name": "Carbon fraction excluded"
+                },
+                {
+                    "id": 10565,
+                    "name": "Amount of fuel produced"
+                },
+                {
+                    "id": 10574,
+                    "name": "CO\u2082 transported or injected"
+                },
+                {
+                    "id": 10659,
+                    "name": "Activity Data"
+                },
+                {
+                    "id": 10816,
+                    "name": "Production of primary aluminium"
+                },
+                {
+                    "id": 10805,
+                    "name": "Amount of aluminium casted"
+                },
+                {
+                    "id": 10806,
+                    "name": "Amount of magnesium casted"
+                },
+                {
+                    "id": 10808,
+                    "name": "Consumption"
+                },
+                {
+                    "id": 10803,
+                    "name": "Amount filled into new manufactured products"
+                },
+                {
+                    "id": 10804,
+                    "name": "Amount in operating systems (average annual stocks)"
+                },
+                {
+                    "id": 10807,
+                    "name": "Amount remaining in products at decommissioning"
+                },
+                {
+                    "id": 10596,
+                    "name": "Population"
+                },
+                {
+                    "id": 10694,
+                    "name": "Average gross energy intake"
+                },
+                {
+                    "id": 10693,
+                    "name": "Average CH4 conversion rate"
+                },
+                {
+                    "id": 10660,
+                    "name": "Allocation by climate region - Cool"
+                },
+                {
+                    "id": 10670,
+                    "name": "Allocation by climate region - Temperate"
+                },
+                {
+                    "id": 10680,
+                    "name": "Allocation by climate region - Warm"
+                },
+                {
+                    "id": 10798,
+                    "name": "Typical animal mass (average)"
+                },
+                {
+                    "id": 10800,
+                    "name": "VS daily excretion (average)"
+                },
+                {
+                    "id": 10696,
+                    "name": "CH4 producing potential (average)"
+                },
+                {
+                    "id": 10782,
+                    "name": "Nitrogen excretion rate"
+                },
+                {
+                    "id": 10772,
+                    "name": "Nitrogen excretion per MMS"
+                },
+                {
+                    "id": 10773,
+                    "name": "Nitrogen excretion per MMS - Anaerobic lagoon"
+                },
+                {
+                    "id": 10778,
+                    "name": "Nitrogen excretion per MMS - Liquid system"
+                },
+                {
+                    "id": 10776,
+                    "name": "Nitrogen excretion per MMS - Daily spread"
+                },
+                {
+                    "id": 10781,
+                    "name": "Nitrogen excretion per MMS - Solid storage and dry lot"
+                },
+                {
+                    "id": 10780,
+                    "name": "Nitrogen excretion per MMS - Pasture, range and paddock"
+                },
+                {
+                    "id": 10775,
+                    "name": "Nitrogen excretion per MMS - Composting"
+                },
+                {
+                    "id": 10777,
+                    "name": "Nitrogen excretion per MMS - Digesters"
+                },
+                {
+                    "id": 10774,
+                    "name": "Nitrogen excretion per MMS - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10779,
+                    "name": "Nitrogen excretion per MMS - Other"
+                },
+                {
+                    "id": 10789,
+                    "name": "Total N excreted"
+                },
+                {
+                    "id": 10771,
+                    "name": "N lost through leaching and run-off"
+                },
+                {
+                    "id": 10797,
+                    "name": "Total N volatilised as NH3 and NOx"
+                },
+                {
+                    "id": 10790,
+                    "name": "Total N handled per MMS - Anaerobic lagoon"
+                },
+                {
+                    "id": 10794,
+                    "name": "Total N handled per MMS - Liquid system"
+                },
+                {
+                    "id": 10792,
+                    "name": "Total N handled per MMS - Daily spread"
+                },
+                {
+                    "id": 10796,
+                    "name": "Total N handled per MMS - Solid storage and dry lot"
+                },
+                {
+                    "id": 10791,
+                    "name": "Total N handled per MMS - Composting"
+                },
+                {
+                    "id": 10793,
+                    "name": "Total N handled per MMS - Digesters"
+                },
+                {
+                    "id": 10795,
+                    "name": "Total N handled per MMS - Other"
+                },
+                {
+                    "id": 10783,
+                    "name": "Organic amendments added"
+                },
+                {
+                    "id": 10718,
+                    "name": "Harvested area"
+                },
+                {
+                    "id": 10719,
+                    "name": "Harvested area for Upland Rice"
+                },
+                {
+                    "id": 10766,
+                    "name": "N input from application of inorganic fertilizers to cropland and grassland"
+                },
+                {
+                    "id": 10769,
+                    "name": "N input from organic N fertilizers to cropland and grassland"
+                },
+                {
+                    "id": 10768,
+                    "name": "N input from manure applied to soils"
+                },
+                {
+                    "id": 10770,
+                    "name": "N input from sewage sludge applied to soils"
+                },
+                {
+                    "id": 10767,
+                    "name": "N input from application of other organic fertilizers"
+                },
+                {
+                    "id": 10762,
+                    "name": "N excretion on pasture, range and paddock"
+                },
+                {
+                    "id": 10764,
+                    "name": "N in crop residues returned to soils"
+                },
+                {
+                    "id": 10765,
+                    "name": "N in mineral soils that is mineralized in association with loss of soil C"
+                },
+                {
+                    "id": 10692,
+                    "name": "Area of cultivated organic soils"
+                },
+                {
+                    "id": 10763,
+                    "name": "N from fertilizers and other agricultural inputs that is lost through leaching and run-off"
+                },
+                {
+                    "id": 10799,
+                    "name": "Volatilized N from agricultural inputs of N"
+                },
+                {
+                    "id": 10788,
+                    "name": "Total biomass burned"
+                },
+                {
+                    "id": 10691,
+                    "name": "Area burned"
+                },
+                {
+                    "id": 10695,
+                    "name": "Biomass available"
+                },
+                {
+                    "id": 10697,
+                    "name": "Combustion factor"
+                },
+                {
+                    "id": 10690,
+                    "name": "Amount applied"
+                },
+                {
+                    "id": 10568,
+                    "name": "Annual waste at the SWDS"
+                },
+                {
+                    "id": 10575,
+                    "name": "DOCf"
+                },
+                {
+                    "id": 10582,
+                    "name": "MCF"
+                },
+                {
+                    "id": 10567,
+                    "name": "Annual waste amount treated"
+                },
+                {
+                    "id": 10566,
+                    "name": "Amount of wastes incinerated/open burned"
+                },
+                {
+                    "id": 10583,
+                    "name": "N in effluent"
+                },
+                {
+                    "id": 10586,
+                    "name": "Sludge removed"
+                },
+                {
+                    "id": 10589,
+                    "name": "Total organic product"
+                },
+                {
+                    "id": 10845,
+                    "name": "Area"
+                },
+                {
+                    "id": 10843,
+                    "name": "Area of mineral soil"
+                },
+                {
+                    "id": 10844,
+                    "name": "Area of organic soil"
+                },
+                {
+                    "id": 10839,
+                    "name": "Annual change in stock"
+                },
+                {
+                    "id": 10840,
+                    "name": "Annual domestic harvest"
+                },
+                {
+                    "id": 10842,
+                    "name": "Annual imports of wood, and paper products + wood fuel, pulp, recovered paper, roundwood/chips"
+                },
+                {
+                    "id": 10841,
+                    "name": "Annual exports of wood, and paper products + wood fuel, pulp, recovered paper, roundwood/chips"
+                },
+                {
+                    "id": 10879,
+                    "name": "Annual MSW at the SWDS"
+                },
+                {
+                    "id": 10880,
+                    "name": "Annual net loss of biomass"
+                },
+                {
+                    "id": 10881,
+                    "name": "Annual rate of aboveground biomass growth"
+                },
+                {
+                    "id": 10882,
+                    "name": "Area above-ground biomass density"
+                },
+                {
+                    "id": 10883,
+                    "name": "Area converted annually"
+                },
+                {
+                    "id": 10884,
+                    "name": "Area of forest/biomass stocks"
+                },
+                {
+                    "id": 10885,
+                    "name": "Area of savanna burned"
+                },
+                {
+                    "id": 10886,
+                    "name": "Average annual growth rate"
+                },
+                {
+                    "id": 10887,
+                    "name": "Average annual net loss of biomass"
+                },
+                {
+                    "id": 10888,
+                    "name": "Average area converted"
+                },
+                {
+                    "id": 10889,
+                    "name": "Average quantity of biomass left to decay"
+                },
+                {
+                    "id": 10890,
+                    "name": "Biomass burned"
+                },
+                {
+                    "id": 10891,
+                    "name": "C fraction of residue"
+                },
+                {
+                    "id": 10892,
+                    "name": "Carbon fraction of aboveground biomass"
+                },
+                {
+                    "id": 10893,
+                    "name": "Crop production"
+                },
+                {
+                    "id": 10894,
+                    "name": "DOC (Degradable Organic Carbon) degraded"
+                },
+                {
+                    "id": 10895,
+                    "name": "Dry matter fraction of residue"
+                },
+                {
+                    "id": 10896,
+                    "name": "Fuel produced"
+                },
+                {
+                    "id": 10897,
+                    "name": "Incinerated wastes"
+                },
+                {
+                    "id": 10898,
+                    "name": "Land area"
+                },
+                {
+                    "id": 10899,
+                    "name": "Methane conversion factor"
+                },
+                {
+                    "id": 10900,
+                    "name": "N excretion on pasture range and paddock"
+                },
+                {
+                    "id": 10901,
+                    "name": "N from fertilizers, animal manures and other that is lost through leaching and run-off"
+                },
+                {
+                    "id": 10902,
+                    "name": "Nitrogen excretion per AWMS"
+                },
+                {
+                    "id": 10903,
+                    "name": "Nitrogen fixed by N-fixing crops"
+                },
+                {
+                    "id": 10904,
+                    "name": "Nitrogen fraction"
+                },
+                {
+                    "id": 10905,
+                    "name": "Nitrogen in crop residues returned to soils"
+                },
+                {
+                    "id": 10906,
+                    "name": "Nitrogen input from application of synthetic fertilizers"
+                },
+                {
+                    "id": 10907,
+                    "name": "Nitrogen input from manure applied to soils"
+                },
+                {
+                    "id": 10908,
+                    "name": "Nitrogen-carbon ratio in biomass residues"
+                },
+                {
+                    "id": 10910,
+                    "name": "Quantity of biomass burned"
+                },
+                {
+                    "id": 10911,
+                    "name": "Residue/Crop ratio"
+                },
+                {
+                    "id": 10912,
+                    "name": "Total annual amount of lime"
+                },
+                {
+                    "id": 10913,
+                    "name": "Total area abandoned and regrowing"
+                },
+                {
+                    "id": 10914,
+                    "name": "Volatized N from fertilizers, animal manures and other"
+                }
+            ]
+        },
+        {
+            "id": 10557,
+            "name": "Implied emission factors",
+            "children": [
+                {
+                    "id": 10591,
+                    "name": "Implied emission factor"
+                },
+                {
+                    "id": 10590,
+                    "name": "Carbon emission factor"
+                },
+                {
+                    "id": 10814,
+                    "name": "Implied emission factor - Product manufacturing factor"
+                },
+                {
+                    "id": 10813,
+                    "name": "Implied emission factor - Product life factor"
+                },
+                {
+                    "id": 10812,
+                    "name": "Implied emission factor - Disposal loss factor"
+                },
+                {
+                    "id": 10723,
+                    "name": "Implied emission factor per MMS - Anaerobic lagoon"
+                },
+                {
+                    "id": 10727,
+                    "name": "Implied emission factor per MMS - Liquid system"
+                },
+                {
+                    "id": 10725,
+                    "name": "Implied emission factor per MMS - Daily spread"
+                },
+                {
+                    "id": 10729,
+                    "name": "Implied emission factor per MMS - Solid storage and dry lot"
+                },
+                {
+                    "id": 10724,
+                    "name": "Implied emission factor per MMS - Composting"
+                },
+                {
+                    "id": 10726,
+                    "name": "Implied emission factor per MMS - Digesters"
+                },
+                {
+                    "id": 10728,
+                    "name": "Implied emission factor per MMS - Other"
+                },
+                {
+                    "id": 10721,
+                    "name": "Implied emission factor - Atmospheric deposition"
+                },
+                {
+                    "id": 10722,
+                    "name": "Implied emission factor - Nitrogen leaching and run-off"
+                },
+                {
+                    "id": 10865,
+                    "name": "Gains in living biomass per area"
+                },
+                {
+                    "id": 10866,
+                    "name": "Losses in living biomass per area"
+                },
+                {
+                    "id": 10873,
+                    "name": "Net change in living biomass per area"
+                },
+                {
+                    "id": 10868,
+                    "name": "Net carbon stock change in dead organic matter per area"
+                },
+                {
+                    "id": 10869,
+                    "name": "Net carbon stock change in dead wood per area"
+                },
+                {
+                    "id": 10870,
+                    "name": "Net carbon stock change in litter per area"
+                },
+                {
+                    "id": 10871,
+                    "name": "Net carbon stock change in mineral soils per area"
+                },
+                {
+                    "id": 10872,
+                    "name": "Net carbon stock change in organic soils per area"
+                },
+                {
+                    "id": 10864,
+                    "name": "CO2 per area"
+                },
+                {
+                    "id": 10863,
+                    "name": "CH4 per area"
+                },
+                {
+                    "id": 10867,
+                    "name": "N2O-N per area"
+                }
+            ]
+        },
+        {
+            "id": 10558,
+            "name": "Additional Information",
+            "children": [
+                {
+                    "id": 10801,
+                    "name": "Weight"
+                },
+                {
+                    "id": 10711,
+                    "name": "Feeding situation"
+                },
+                {
+                    "id": 10761,
+                    "name": "Milk yield"
+                },
+                {
+                    "id": 10802,
+                    "name": "Work"
+                },
+                {
+                    "id": 10786,
+                    "name": "Pregnant"
+                },
+                {
+                    "id": 10699,
+                    "name": "Digestibility of feed"
+                },
+                {
+                    "id": 10717,
+                    "name": "Gross energy"
+                },
+                {
+                    "id": 10661,
+                    "name": "Allocation by climate region - Cool - Anaerobic lagoon"
+                },
+                {
+                    "id": 10671,
+                    "name": "Allocation by climate region - Temperate - Anaerobic lagoon"
+                },
+                {
+                    "id": 10681,
+                    "name": "Allocation by climate region - Warm - Anaerobic lagoon"
+                },
+                {
+                    "id": 10733,
+                    "name": "MCF - Cool - Anaerobic lagoon"
+                },
+                {
+                    "id": 10742,
+                    "name": "MCF - Temperate - Anaerobic lagoon"
+                },
+                {
+                    "id": 10751,
+                    "name": "MCF - Warm - Anaerobic lagoon"
+                },
+                {
+                    "id": 10666,
+                    "name": "Allocation by climate region - Cool - Liquid system"
+                },
+                {
+                    "id": 10676,
+                    "name": "Allocation by climate region - Temperate - Liquid system"
+                },
+                {
+                    "id": 10686,
+                    "name": "Allocation by climate region - Warm - Liquid system"
+                },
+                {
+                    "id": 10738,
+                    "name": "MCF - Cool - Liquid system"
+                },
+                {
+                    "id": 10747,
+                    "name": "MCF - Temperate - Liquid system"
+                },
+                {
+                    "id": 10756,
+                    "name": "MCF - Warm - Liquid system"
+                },
+                {
+                    "id": 10664,
+                    "name": "Allocation by climate region - Cool - Daily spread"
+                },
+                {
+                    "id": 10674,
+                    "name": "Allocation by climate region - Temperate - Daily spread"
+                },
+                {
+                    "id": 10684,
+                    "name": "Allocation by climate region - Warm - Daily spread"
+                },
+                {
+                    "id": 10736,
+                    "name": "MCF - Cool - Daily spread"
+                },
+                {
+                    "id": 10745,
+                    "name": "MCF - Temperate - Daily spread"
+                },
+                {
+                    "id": 10754,
+                    "name": "MCF - Warm - Daily spread"
+                },
+                {
+                    "id": 10669,
+                    "name": "Allocation by climate region - Cool - Solid storage and dry lot"
+                },
+                {
+                    "id": 10679,
+                    "name": "Allocation by climate region - Temperate - Solid storage and dry lot"
+                },
+                {
+                    "id": 10689,
+                    "name": "Allocation by climate region - Warm - Solid storage and dry lot"
+                },
+                {
+                    "id": 10741,
+                    "name": "MCF - Cool - Solid storage and dry lot"
+                },
+                {
+                    "id": 10750,
+                    "name": "MCF - Temperate - Solid storage and dry lot"
+                },
+                {
+                    "id": 10759,
+                    "name": "MCF - Warm - Solid storage and dry lot"
+                },
+                {
+                    "id": 10668,
+                    "name": "Allocation by climate region - Cool - Pasture, range and paddock"
+                },
+                {
+                    "id": 10678,
+                    "name": "Allocation by climate region - Temperate - Pasture, range and paddock"
+                },
+                {
+                    "id": 10688,
+                    "name": "Allocation by climate region - Warm - Pasture, range and paddock"
+                },
+                {
+                    "id": 10740,
+                    "name": "MCF - Cool - Pasture, range and paddock"
+                },
+                {
+                    "id": 10749,
+                    "name": "MCF - Temperate - Pasture, range and paddock"
+                },
+                {
+                    "id": 10758,
+                    "name": "MCF - Warm - Pasture, range and paddock"
+                },
+                {
+                    "id": 10663,
+                    "name": "Allocation by climate region - Cool - Composting"
+                },
+                {
+                    "id": 10673,
+                    "name": "Allocation by climate region - Temperate - Composting"
+                },
+                {
+                    "id": 10683,
+                    "name": "Allocation by climate region - Warm - Composting"
+                },
+                {
+                    "id": 10735,
+                    "name": "MCF - Cool - Composting"
+                },
+                {
+                    "id": 10744,
+                    "name": "MCF - Temperate - Composting"
+                },
+                {
+                    "id": 10753,
+                    "name": "MCF - Warm - Composting"
+                },
+                {
+                    "id": 10665,
+                    "name": "Allocation by climate region - Cool - Digesters"
+                },
+                {
+                    "id": 10675,
+                    "name": "Allocation by climate region - Temperate - Digesters"
+                },
+                {
+                    "id": 10685,
+                    "name": "Allocation by climate region - Warm - Digesters"
+                },
+                {
+                    "id": 10737,
+                    "name": "MCF - Cool - Digesters"
+                },
+                {
+                    "id": 10746,
+                    "name": "MCF - Temperate - Digesters"
+                },
+                {
+                    "id": 10755,
+                    "name": "MCF - Warm - Digesters"
+                },
+                {
+                    "id": 10662,
+                    "name": "Allocation by climate region - Cool - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10672,
+                    "name": "Allocation by climate region - Temperate - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10682,
+                    "name": "Allocation by climate region - Warm - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10734,
+                    "name": "MCF - Cool - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10743,
+                    "name": "MCF - Temperate - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10752,
+                    "name": "MCF - Warm - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10667,
+                    "name": "Allocation by climate region - Cool - Other"
+                },
+                {
+                    "id": 10677,
+                    "name": "Allocation by climate region - Temperate - Other"
+                },
+                {
+                    "id": 10687,
+                    "name": "Allocation by climate region - Warm - Other"
+                },
+                {
+                    "id": 10739,
+                    "name": "MCF - Cool - Other"
+                },
+                {
+                    "id": 10748,
+                    "name": "MCF - Temperate - Other"
+                },
+                {
+                    "id": 10757,
+                    "name": "MCF - Warm - Other"
+                },
+                {
+                    "id": 10715,
+                    "name": "Fraction of synthetic fertilizer N applied to soils that volatilises as NH3 and NOx"
+                },
+                {
+                    "id": 10713,
+                    "name": "Fraction of livestock N excretion that volatilises as NH3 and NOx"
+                },
+                {
+                    "id": 10714,
+                    "name": "Fraction of N input to managed soils that is lost through leaching and run-off"
+                },
+                {
+                    "id": 10698,
+                    "name": "Crop  production"
+                },
+                {
+                    "id": 10787,
+                    "name": "Residue/ Crop ratio"
+                },
+                {
+                    "id": 10708,
+                    "name": "Dry matter (dm) fraction of residue"
+                },
+                {
+                    "id": 10712,
+                    "name": "Fraction burned in fields"
+                },
+                {
+                    "id": 10716,
+                    "name": "Fraction oxidized"
+                },
+                {
+                    "id": 10597,
+                    "name": "Protein consumption"
+                },
+                {
+                    "id": 10595,
+                    "name": "Fraction of nitrogen in protein"
+                },
+                {
+                    "id": 10594,
+                    "name": "Factor of non-consumed protein added to the wastewater"
+                },
+                {
+                    "id": 10593,
+                    "name": "Factor of industrial and commercial co-discharged protein into the sewer system"
+                },
+                {
+                    "id": 10592,
+                    "name": "Degree of utilization of modern, centralized WWT plants"
+                },
+                {
+                    "id": 10877,
+                    "name": "Population"
+                },
+                {
+                    "id": 10846,
+                    "name": "Factors used to convert from product units to carbon"
+                },
+                {
+                    "id": 10876,
+                    "name": "Production"
+                },
+                {
+                    "id": 10875,
+                    "name": "Imports"
+                },
+                {
+                    "id": 10874,
+                    "name": "Exports"
+                }
+            ]
+        },
+        {
+            "id": 10559,
+            "name": "Other Information",
+            "children": [
+                {
+                    "id": 10599,
+                    "name": "Method"
+                },
+                {
+                    "id": 10598,
+                    "name": "Emission factor information"
+                },
+                {
+                    "id": 10784,
+                    "name": "Other fractions"
+                }
+            ]
+        }
+    ],
+    "nonAnnexOne": [
+        {
+            "id": 10555,
+            "name": "Emissions",
+            "children": [
+                {
+                    "id": 10460,
+                    "name": "Net emissions/removals"
+                },
+                {
+                    "id": 10563,
+                    "name": "Indirect emissions"
+                },
+                {
+                    "id": 10560,
+                    "name": "Amount captured"
+                },
+                {
+                    "id": 10564,
+                    "name": "Recovery/Flaring"
+                },
+                {
+                    "id": 10810,
+                    "name": "Emissions from manufacturing"
+                },
+                {
+                    "id": 10811,
+                    "name": "Emissions from stocks"
+                },
+                {
+                    "id": 10809,
+                    "name": "Emissions from disposal"
+                },
+                {
+                    "id": 10815,
+                    "name": "Recovery"
+                },
+                {
+                    "id": 10700,
+                    "name": "Direct emissions per MMS"
+                },
+                {
+                    "id": 10701,
+                    "name": "Direct emissions per MMS - Anaerobic lagoon"
+                },
+                {
+                    "id": 10705,
+                    "name": "Direct emissions per MMS - Liquid system"
+                },
+                {
+                    "id": 10703,
+                    "name": "Direct emissions per MMS - Daily spread"
+                },
+                {
+                    "id": 10707,
+                    "name": "Direct emissions per MMS - Solid storage and dry lot"
+                },
+                {
+                    "id": 10702,
+                    "name": "Direct emissions per MMS - Composting"
+                },
+                {
+                    "id": 10704,
+                    "name": "Direct emissions per MMS - Digesters"
+                },
+                {
+                    "id": 10706,
+                    "name": "Direct emissions per MMS - Other"
+                },
+                {
+                    "id": 10731,
+                    "name": "Indirect N2O emissions from atmospheric deposition"
+                },
+                {
+                    "id": 10732,
+                    "name": "Indirect N2O emissions from nitrogen leaching and run-off"
+                },
+                {
+                    "id": 10561,
+                    "name": "Amount of CH\u2084 flared"
+                },
+                {
+                    "id": 10562,
+                    "name": "Amount of CH\u2084 for energy recovery"
+                },
+                {
+                    "id": 10862,
+                    "name": "Net emissions/removals from HWP"
+                },
+                {
+                    "id": 10860,
+                    "name": "Net emissions/removals from HWP from domestic consumption"
+                },
+                {
+                    "id": 10861,
+                    "name": "Net emissions/removals from HWP from domestic harvest"
+                },
+                {
+                    "id": 10580,
+                    "name": "Imports"
+                },
+                {
+                    "id": 10847,
+                    "name": "Gains in living biomass"
+                },
+                {
+                    "id": 10850,
+                    "name": "Losses in living biomass"
+                },
+                {
+                    "id": 10859,
+                    "name": "Net change in living biomass"
+                },
+                {
+                    "id": 10855,
+                    "name": "Net carbon stock change in dead wood"
+                },
+                {
+                    "id": 10856,
+                    "name": "Net carbon stock change in litter"
+                },
+                {
+                    "id": 10854,
+                    "name": "Net carbon stock change in dead organic matter"
+                },
+                {
+                    "id": 10857,
+                    "name": "Net carbon stock change in mineral soils"
+                },
+                {
+                    "id": 10858,
+                    "name": "Net carbon stock change in organic soils"
+                },
+                {
+                    "id": 10853,
+                    "name": "N volatized from managed soils from inputs of N"
+                },
+                {
+                    "id": 10852,
+                    "name": "N from fertlizers and other that is lost through leaching and run-off from managed soils"
+                },
+                {
+                    "id": 10848,
+                    "name": "Gains"
+                },
+                {
+                    "id": 10851,
+                    "name": "Losses"
+                },
+                {
+                    "id": 10849,
+                    "name": "Half-life"
+                },
+                {
+                    "id": 10878,
+                    "name": "Actual emissions"
+                },
+                {
+                    "id": 10909,
+                    "name": "Potential emissions"
+                }
+            ]
+        },
+        {
+            "id": 10556,
+            "name": "Activity Data",
+            "children": [
+                {
+                    "id": 10817,
+                    "name": "Total area"
+                },
+                {
+                    "id": 10819,
+                    "name": "Market prices (constant 2010 USD)"
+                },
+                {
+                    "id": 10818,
+                    "name": "Total population"
+                },
+                {
+                    "id": 10578,
+                    "name": "Fuel Consumption"
+                },
+                {
+                    "id": 10585,
+                    "name": "Production"
+                },
+                {
+                    "id": 10576,
+                    "name": "Exports"
+                },
+                {
+                    "id": 10581,
+                    "name": "International bunkers"
+                },
+                {
+                    "id": 10588,
+                    "name": "Stock change"
+                },
+                {
+                    "id": 10587,
+                    "name": "Source apparent consumption"
+                },
+                {
+                    "id": 10569,
+                    "name": "Apparent consumption"
+                },
+                {
+                    "id": 10570,
+                    "name": "Carbon content"
+                },
+                {
+                    "id": 10573,
+                    "name": "Carbon stored"
+                },
+                {
+                    "id": 10584,
+                    "name": "Net carbon emissions"
+                },
+                {
+                    "id": 10577,
+                    "name": "Fraction of carbon oxidized"
+                },
+                {
+                    "id": 10579,
+                    "name": "Fuel quantity"
+                },
+                {
+                    "id": 10571,
+                    "name": "Carbon excluded"
+                },
+                {
+                    "id": 10572,
+                    "name": "Carbon fraction excluded"
+                },
+                {
+                    "id": 10565,
+                    "name": "Amount of fuel produced"
+                },
+                {
+                    "id": 10574,
+                    "name": "CO\u2082 transported or injected"
+                },
+                {
+                    "id": 10659,
+                    "name": "Activity Data"
+                },
+                {
+                    "id": 10816,
+                    "name": "Production of primary aluminium"
+                },
+                {
+                    "id": 10805,
+                    "name": "Amount of aluminium casted"
+                },
+                {
+                    "id": 10806,
+                    "name": "Amount of magnesium casted"
+                },
+                {
+                    "id": 10808,
+                    "name": "Consumption"
+                },
+                {
+                    "id": 10803,
+                    "name": "Amount filled into new manufactured products"
+                },
+                {
+                    "id": 10804,
+                    "name": "Amount in operating systems (average annual stocks)"
+                },
+                {
+                    "id": 10807,
+                    "name": "Amount remaining in products at decommissioning"
+                },
+                {
+                    "id": 10596,
+                    "name": "Population"
+                },
+                {
+                    "id": 10694,
+                    "name": "Average gross energy intake"
+                },
+                {
+                    "id": 10693,
+                    "name": "Average CH4 conversion rate"
+                },
+                {
+                    "id": 10660,
+                    "name": "Allocation by climate region - Cool"
+                },
+                {
+                    "id": 10670,
+                    "name": "Allocation by climate region - Temperate"
+                },
+                {
+                    "id": 10680,
+                    "name": "Allocation by climate region - Warm"
+                },
+                {
+                    "id": 10798,
+                    "name": "Typical animal mass (average)"
+                },
+                {
+                    "id": 10800,
+                    "name": "VS daily excretion (average)"
+                },
+                {
+                    "id": 10696,
+                    "name": "CH4 producing potential (average)"
+                },
+                {
+                    "id": 10782,
+                    "name": "Nitrogen excretion rate"
+                },
+                {
+                    "id": 10772,
+                    "name": "Nitrogen excretion per MMS"
+                },
+                {
+                    "id": 10773,
+                    "name": "Nitrogen excretion per MMS - Anaerobic lagoon"
+                },
+                {
+                    "id": 10778,
+                    "name": "Nitrogen excretion per MMS - Liquid system"
+                },
+                {
+                    "id": 10776,
+                    "name": "Nitrogen excretion per MMS - Daily spread"
+                },
+                {
+                    "id": 10781,
+                    "name": "Nitrogen excretion per MMS - Solid storage and dry lot"
+                },
+                {
+                    "id": 10780,
+                    "name": "Nitrogen excretion per MMS - Pasture, range and paddock"
+                },
+                {
+                    "id": 10775,
+                    "name": "Nitrogen excretion per MMS - Composting"
+                },
+                {
+                    "id": 10777,
+                    "name": "Nitrogen excretion per MMS - Digesters"
+                },
+                {
+                    "id": 10774,
+                    "name": "Nitrogen excretion per MMS - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10779,
+                    "name": "Nitrogen excretion per MMS - Other"
+                },
+                {
+                    "id": 10789,
+                    "name": "Total N excreted"
+                },
+                {
+                    "id": 10771,
+                    "name": "N lost through leaching and run-off"
+                },
+                {
+                    "id": 10797,
+                    "name": "Total N volatilised as NH3 and NOx"
+                },
+                {
+                    "id": 10790,
+                    "name": "Total N handled per MMS - Anaerobic lagoon"
+                },
+                {
+                    "id": 10794,
+                    "name": "Total N handled per MMS - Liquid system"
+                },
+                {
+                    "id": 10792,
+                    "name": "Total N handled per MMS - Daily spread"
+                },
+                {
+                    "id": 10796,
+                    "name": "Total N handled per MMS - Solid storage and dry lot"
+                },
+                {
+                    "id": 10791,
+                    "name": "Total N handled per MMS - Composting"
+                },
+                {
+                    "id": 10793,
+                    "name": "Total N handled per MMS - Digesters"
+                },
+                {
+                    "id": 10795,
+                    "name": "Total N handled per MMS - Other"
+                },
+                {
+                    "id": 10783,
+                    "name": "Organic amendments added"
+                },
+                {
+                    "id": 10718,
+                    "name": "Harvested area"
+                },
+                {
+                    "id": 10719,
+                    "name": "Harvested area for Upland Rice"
+                },
+                {
+                    "id": 10766,
+                    "name": "N input from application of inorganic fertilizers to cropland and grassland"
+                },
+                {
+                    "id": 10769,
+                    "name": "N input from organic N fertilizers to cropland and grassland"
+                },
+                {
+                    "id": 10768,
+                    "name": "N input from manure applied to soils"
+                },
+                {
+                    "id": 10770,
+                    "name": "N input from sewage sludge applied to soils"
+                },
+                {
+                    "id": 10767,
+                    "name": "N input from application of other organic fertilizers"
+                },
+                {
+                    "id": 10762,
+                    "name": "N excretion on pasture, range and paddock"
+                },
+                {
+                    "id": 10764,
+                    "name": "N in crop residues returned to soils"
+                },
+                {
+                    "id": 10765,
+                    "name": "N in mineral soils that is mineralized in association with loss of soil C"
+                },
+                {
+                    "id": 10692,
+                    "name": "Area of cultivated organic soils"
+                },
+                {
+                    "id": 10763,
+                    "name": "N from fertilizers and other agricultural inputs that is lost through leaching and run-off"
+                },
+                {
+                    "id": 10799,
+                    "name": "Volatilized N from agricultural inputs of N"
+                },
+                {
+                    "id": 10788,
+                    "name": "Total biomass burned"
+                },
+                {
+                    "id": 10691,
+                    "name": "Area burned"
+                },
+                {
+                    "id": 10695,
+                    "name": "Biomass available"
+                },
+                {
+                    "id": 10697,
+                    "name": "Combustion factor"
+                },
+                {
+                    "id": 10690,
+                    "name": "Amount applied"
+                },
+                {
+                    "id": 10568,
+                    "name": "Annual waste at the SWDS"
+                },
+                {
+                    "id": 10575,
+                    "name": "DOCf"
+                },
+                {
+                    "id": 10582,
+                    "name": "MCF"
+                },
+                {
+                    "id": 10567,
+                    "name": "Annual waste amount treated"
+                },
+                {
+                    "id": 10566,
+                    "name": "Amount of wastes incinerated/open burned"
+                },
+                {
+                    "id": 10583,
+                    "name": "N in effluent"
+                },
+                {
+                    "id": 10586,
+                    "name": "Sludge removed"
+                },
+                {
+                    "id": 10589,
+                    "name": "Total organic product"
+                },
+                {
+                    "id": 10845,
+                    "name": "Area"
+                },
+                {
+                    "id": 10843,
+                    "name": "Area of mineral soil"
+                },
+                {
+                    "id": 10844,
+                    "name": "Area of organic soil"
+                },
+                {
+                    "id": 10839,
+                    "name": "Annual change in stock"
+                },
+                {
+                    "id": 10840,
+                    "name": "Annual domestic harvest"
+                },
+                {
+                    "id": 10842,
+                    "name": "Annual imports of wood, and paper products + wood fuel, pulp, recovered paper, roundwood/chips"
+                },
+                {
+                    "id": 10841,
+                    "name": "Annual exports of wood, and paper products + wood fuel, pulp, recovered paper, roundwood/chips"
+                },
+                {
+                    "id": 10879,
+                    "name": "Annual MSW at the SWDS"
+                },
+                {
+                    "id": 10880,
+                    "name": "Annual net loss of biomass"
+                },
+                {
+                    "id": 10881,
+                    "name": "Annual rate of aboveground biomass growth"
+                },
+                {
+                    "id": 10882,
+                    "name": "Area above-ground biomass density"
+                },
+                {
+                    "id": 10883,
+                    "name": "Area converted annually"
+                },
+                {
+                    "id": 10884,
+                    "name": "Area of forest/biomass stocks"
+                },
+                {
+                    "id": 10885,
+                    "name": "Area of savanna burned"
+                },
+                {
+                    "id": 10886,
+                    "name": "Average annual growth rate"
+                },
+                {
+                    "id": 10887,
+                    "name": "Average annual net loss of biomass"
+                },
+                {
+                    "id": 10888,
+                    "name": "Average area converted"
+                },
+                {
+                    "id": 10889,
+                    "name": "Average quantity of biomass left to decay"
+                },
+                {
+                    "id": 10890,
+                    "name": "Biomass burned"
+                },
+                {
+                    "id": 10891,
+                    "name": "C fraction of residue"
+                },
+                {
+                    "id": 10892,
+                    "name": "Carbon fraction of aboveground biomass"
+                },
+                {
+                    "id": 10893,
+                    "name": "Crop production"
+                },
+                {
+                    "id": 10894,
+                    "name": "DOC (Degradable Organic Carbon) degraded"
+                },
+                {
+                    "id": 10895,
+                    "name": "Dry matter fraction of residue"
+                },
+                {
+                    "id": 10896,
+                    "name": "Fuel produced"
+                },
+                {
+                    "id": 10897,
+                    "name": "Incinerated wastes"
+                },
+                {
+                    "id": 10898,
+                    "name": "Land area"
+                },
+                {
+                    "id": 10899,
+                    "name": "Methane conversion factor"
+                },
+                {
+                    "id": 10900,
+                    "name": "N excretion on pasture range and paddock"
+                },
+                {
+                    "id": 10901,
+                    "name": "N from fertilizers, animal manures and other that is lost through leaching and run-off"
+                },
+                {
+                    "id": 10902,
+                    "name": "Nitrogen excretion per AWMS"
+                },
+                {
+                    "id": 10903,
+                    "name": "Nitrogen fixed by N-fixing crops"
+                },
+                {
+                    "id": 10904,
+                    "name": "Nitrogen fraction"
+                },
+                {
+                    "id": 10905,
+                    "name": "Nitrogen in crop residues returned to soils"
+                },
+                {
+                    "id": 10906,
+                    "name": "Nitrogen input from application of synthetic fertilizers"
+                },
+                {
+                    "id": 10907,
+                    "name": "Nitrogen input from manure applied to soils"
+                },
+                {
+                    "id": 10908,
+                    "name": "Nitrogen-carbon ratio in biomass residues"
+                },
+                {
+                    "id": 10910,
+                    "name": "Quantity of biomass burned"
+                },
+                {
+                    "id": 10911,
+                    "name": "Residue/Crop ratio"
+                },
+                {
+                    "id": 10912,
+                    "name": "Total annual amount of lime"
+                },
+                {
+                    "id": 10913,
+                    "name": "Total area abandoned and regrowing"
+                },
+                {
+                    "id": 10914,
+                    "name": "Volatized N from fertilizers, animal manures and other"
+                }
+            ]
+        },
+        {
+            "id": 10557,
+            "name": "Implied emission factors",
+            "children": [
+                {
+                    "id": 10591,
+                    "name": "Implied emission factor"
+                },
+                {
+                    "id": 10590,
+                    "name": "Carbon emission factor"
+                },
+                {
+                    "id": 10814,
+                    "name": "Implied emission factor - Product manufacturing factor"
+                },
+                {
+                    "id": 10813,
+                    "name": "Implied emission factor - Product life factor"
+                },
+                {
+                    "id": 10812,
+                    "name": "Implied emission factor - Disposal loss factor"
+                },
+                {
+                    "id": 10723,
+                    "name": "Implied emission factor per MMS - Anaerobic lagoon"
+                },
+                {
+                    "id": 10727,
+                    "name": "Implied emission factor per MMS - Liquid system"
+                },
+                {
+                    "id": 10725,
+                    "name": "Implied emission factor per MMS - Daily spread"
+                },
+                {
+                    "id": 10729,
+                    "name": "Implied emission factor per MMS - Solid storage and dry lot"
+                },
+                {
+                    "id": 10724,
+                    "name": "Implied emission factor per MMS - Composting"
+                },
+                {
+                    "id": 10726,
+                    "name": "Implied emission factor per MMS - Digesters"
+                },
+                {
+                    "id": 10728,
+                    "name": "Implied emission factor per MMS - Other"
+                },
+                {
+                    "id": 10721,
+                    "name": "Implied emission factor - Atmospheric deposition"
+                },
+                {
+                    "id": 10722,
+                    "name": "Implied emission factor - Nitrogen leaching and run-off"
+                },
+                {
+                    "id": 10865,
+                    "name": "Gains in living biomass per area"
+                },
+                {
+                    "id": 10866,
+                    "name": "Losses in living biomass per area"
+                },
+                {
+                    "id": 10873,
+                    "name": "Net change in living biomass per area"
+                },
+                {
+                    "id": 10868,
+                    "name": "Net carbon stock change in dead organic matter per area"
+                },
+                {
+                    "id": 10869,
+                    "name": "Net carbon stock change in dead wood per area"
+                },
+                {
+                    "id": 10870,
+                    "name": "Net carbon stock change in litter per area"
+                },
+                {
+                    "id": 10871,
+                    "name": "Net carbon stock change in mineral soils per area"
+                },
+                {
+                    "id": 10872,
+                    "name": "Net carbon stock change in organic soils per area"
+                },
+                {
+                    "id": 10864,
+                    "name": "CO2 per area"
+                },
+                {
+                    "id": 10863,
+                    "name": "CH4 per area"
+                },
+                {
+                    "id": 10867,
+                    "name": "N2O-N per area"
+                }
+            ]
+        },
+        {
+            "id": 10558,
+            "name": "Additional Information",
+            "children": [
+                {
+                    "id": 10801,
+                    "name": "Weight"
+                },
+                {
+                    "id": 10711,
+                    "name": "Feeding situation"
+                },
+                {
+                    "id": 10761,
+                    "name": "Milk yield"
+                },
+                {
+                    "id": 10802,
+                    "name": "Work"
+                },
+                {
+                    "id": 10786,
+                    "name": "Pregnant"
+                },
+                {
+                    "id": 10699,
+                    "name": "Digestibility of feed"
+                },
+                {
+                    "id": 10717,
+                    "name": "Gross energy"
+                },
+                {
+                    "id": 10661,
+                    "name": "Allocation by climate region - Cool - Anaerobic lagoon"
+                },
+                {
+                    "id": 10671,
+                    "name": "Allocation by climate region - Temperate - Anaerobic lagoon"
+                },
+                {
+                    "id": 10681,
+                    "name": "Allocation by climate region - Warm - Anaerobic lagoon"
+                },
+                {
+                    "id": 10733,
+                    "name": "MCF - Cool - Anaerobic lagoon"
+                },
+                {
+                    "id": 10742,
+                    "name": "MCF - Temperate - Anaerobic lagoon"
+                },
+                {
+                    "id": 10751,
+                    "name": "MCF - Warm - Anaerobic lagoon"
+                },
+                {
+                    "id": 10666,
+                    "name": "Allocation by climate region - Cool - Liquid system"
+                },
+                {
+                    "id": 10676,
+                    "name": "Allocation by climate region - Temperate - Liquid system"
+                },
+                {
+                    "id": 10686,
+                    "name": "Allocation by climate region - Warm - Liquid system"
+                },
+                {
+                    "id": 10738,
+                    "name": "MCF - Cool - Liquid system"
+                },
+                {
+                    "id": 10747,
+                    "name": "MCF - Temperate - Liquid system"
+                },
+                {
+                    "id": 10756,
+                    "name": "MCF - Warm - Liquid system"
+                },
+                {
+                    "id": 10664,
+                    "name": "Allocation by climate region - Cool - Daily spread"
+                },
+                {
+                    "id": 10674,
+                    "name": "Allocation by climate region - Temperate - Daily spread"
+                },
+                {
+                    "id": 10684,
+                    "name": "Allocation by climate region - Warm - Daily spread"
+                },
+                {
+                    "id": 10736,
+                    "name": "MCF - Cool - Daily spread"
+                },
+                {
+                    "id": 10745,
+                    "name": "MCF - Temperate - Daily spread"
+                },
+                {
+                    "id": 10754,
+                    "name": "MCF - Warm - Daily spread"
+                },
+                {
+                    "id": 10669,
+                    "name": "Allocation by climate region - Cool - Solid storage and dry lot"
+                },
+                {
+                    "id": 10679,
+                    "name": "Allocation by climate region - Temperate - Solid storage and dry lot"
+                },
+                {
+                    "id": 10689,
+                    "name": "Allocation by climate region - Warm - Solid storage and dry lot"
+                },
+                {
+                    "id": 10741,
+                    "name": "MCF - Cool - Solid storage and dry lot"
+                },
+                {
+                    "id": 10750,
+                    "name": "MCF - Temperate - Solid storage and dry lot"
+                },
+                {
+                    "id": 10759,
+                    "name": "MCF - Warm - Solid storage and dry lot"
+                },
+                {
+                    "id": 10668,
+                    "name": "Allocation by climate region - Cool - Pasture, range and paddock"
+                },
+                {
+                    "id": 10678,
+                    "name": "Allocation by climate region - Temperate - Pasture, range and paddock"
+                },
+                {
+                    "id": 10688,
+                    "name": "Allocation by climate region - Warm - Pasture, range and paddock"
+                },
+                {
+                    "id": 10740,
+                    "name": "MCF - Cool - Pasture, range and paddock"
+                },
+                {
+                    "id": 10749,
+                    "name": "MCF - Temperate - Pasture, range and paddock"
+                },
+                {
+                    "id": 10758,
+                    "name": "MCF - Warm - Pasture, range and paddock"
+                },
+                {
+                    "id": 10663,
+                    "name": "Allocation by climate region - Cool - Composting"
+                },
+                {
+                    "id": 10673,
+                    "name": "Allocation by climate region - Temperate - Composting"
+                },
+                {
+                    "id": 10683,
+                    "name": "Allocation by climate region - Warm - Composting"
+                },
+                {
+                    "id": 10735,
+                    "name": "MCF - Cool - Composting"
+                },
+                {
+                    "id": 10744,
+                    "name": "MCF - Temperate - Composting"
+                },
+                {
+                    "id": 10753,
+                    "name": "MCF - Warm - Composting"
+                },
+                {
+                    "id": 10665,
+                    "name": "Allocation by climate region - Cool - Digesters"
+                },
+                {
+                    "id": 10675,
+                    "name": "Allocation by climate region - Temperate - Digesters"
+                },
+                {
+                    "id": 10685,
+                    "name": "Allocation by climate region - Warm - Digesters"
+                },
+                {
+                    "id": 10737,
+                    "name": "MCF - Cool - Digesters"
+                },
+                {
+                    "id": 10746,
+                    "name": "MCF - Temperate - Digesters"
+                },
+                {
+                    "id": 10755,
+                    "name": "MCF - Warm - Digesters"
+                },
+                {
+                    "id": 10662,
+                    "name": "Allocation by climate region - Cool - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10672,
+                    "name": "Allocation by climate region - Temperate - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10682,
+                    "name": "Allocation by climate region - Warm - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10734,
+                    "name": "MCF - Cool - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10743,
+                    "name": "MCF - Temperate - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10752,
+                    "name": "MCF - Warm - Burned for fuel or as waste"
+                },
+                {
+                    "id": 10667,
+                    "name": "Allocation by climate region - Cool - Other"
+                },
+                {
+                    "id": 10677,
+                    "name": "Allocation by climate region - Temperate - Other"
+                },
+                {
+                    "id": 10687,
+                    "name": "Allocation by climate region - Warm - Other"
+                },
+                {
+                    "id": 10739,
+                    "name": "MCF - Cool - Other"
+                },
+                {
+                    "id": 10748,
+                    "name": "MCF - Temperate - Other"
+                },
+                {
+                    "id": 10757,
+                    "name": "MCF - Warm - Other"
+                },
+                {
+                    "id": 10715,
+                    "name": "Fraction of synthetic fertilizer N applied to soils that volatilises as NH3 and NOx"
+                },
+                {
+                    "id": 10713,
+                    "name": "Fraction of livestock N excretion that volatilises as NH3 and NOx"
+                },
+                {
+                    "id": 10714,
+                    "name": "Fraction of N input to managed soils that is lost through leaching and run-off"
+                },
+                {
+                    "id": 10698,
+                    "name": "Crop  production"
+                },
+                {
+                    "id": 10787,
+                    "name": "Residue/ Crop ratio"
+                },
+                {
+                    "id": 10708,
+                    "name": "Dry matter (dm) fraction of residue"
+                },
+                {
+                    "id": 10712,
+                    "name": "Fraction burned in fields"
+                },
+                {
+                    "id": 10716,
+                    "name": "Fraction oxidized"
+                },
+                {
+                    "id": 10597,
+                    "name": "Protein consumption"
+                },
+                {
+                    "id": 10595,
+                    "name": "Fraction of nitrogen in protein"
+                },
+                {
+                    "id": 10594,
+                    "name": "Factor of non-consumed protein added to the wastewater"
+                },
+                {
+                    "id": 10593,
+                    "name": "Factor of industrial and commercial co-discharged protein into the sewer system"
+                },
+                {
+                    "id": 10592,
+                    "name": "Degree of utilization of modern, centralized WWT plants"
+                },
+                {
+                    "id": 10877,
+                    "name": "Population"
+                },
+                {
+                    "id": 10846,
+                    "name": "Factors used to convert from product units to carbon"
+                },
+                {
+                    "id": 10876,
+                    "name": "Production"
+                },
+                {
+                    "id": 10875,
+                    "name": "Imports"
+                },
+                {
+                    "id": 10874,
+                    "name": "Exports"
+                }
+            ]
+        },
+        {
+            "id": 10559,
+            "name": "Other Information",
+            "children": [
+                {
+                    "id": 10599,
+                    "name": "Method"
+                },
+                {
+                    "id": 10598,
+                    "name": "Emission factor information"
+                },
+                {
+                    "id": 10784,
+                    "name": "Other fractions"
+                }
+            ]
+        }
+    ],
+    "extData": null,
+    "cad": [
+        {
+            "id": 10965,
+            "name": "Accounting quantity"
+        },
+        {
+            "id": 10966,
+            "name": "No type of value"
+        },
+        {
+            "id": 10967,
+            "name": "Net emissions/removals"
+        },
+        {
+            "id": 10968,
+            "name": "Emissions"
+        },
+        {
+            "id": 10971,
+            "name": "AAUs"
+        },
+        {
+            "id": 10964,
+            "name": "ERUs"
+        },
+        {
+            "id": 10969,
+            "name": "RMUs"
+        },
+        {
+            "id": 10963,
+            "name": "CERs"
+        },
+        {
+            "id": 10972,
+            "name": "tCERs"
+        },
+        {
+            "id": 10962,
+            "name": "lCERs"
+        },
+        {
+            "id": 10970,
+            "name": "Total"
+        }
+    ]
+}
