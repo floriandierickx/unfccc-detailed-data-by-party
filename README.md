@@ -9,8 +9,8 @@ Steps:
 1. add classifications to the mapping download script (`download_mappings.sh`) -> converts api to json [https://github.com/floriandierickx/unfccc-detailed-data-by-party/commit/f04271833e7a7f87e8017640519fa2eedbd4b4d9]
     - when running `make mappings` : json file gets saved in `/scripts/api-mappings/classifications.json` [https://github.com/floriandierickx/unfccc-detailed-data-by-party/commit/d1b61afdd6482a00aacb77c387b303e08daf5cf7]
 2. add classifications file to `mappings.py`, so it can be used in the download script `download.py` [https://github.com/floriandierickx/unfccc-detailed-data-by-party/commit/6ddc951d3ba961891c825da632abb6d3469d5c32]
-3. adapt `download.py` script to download all data 
-4. 
+3. adapt `download.py` script to download all data [https://github.com/floriandierickx/unfccc-detailed-data-by-party/commit/050d72c707dd1c7e98c4839e5c478a73bdc92cf7]
+4. ,,, (waiting..)
 
 # Original readme
 From https://github.com/openclimatedata/unfccc-detailed-data-by-party and https://github.com/JGuetschow/unfccc-detailed-data-by-party:
